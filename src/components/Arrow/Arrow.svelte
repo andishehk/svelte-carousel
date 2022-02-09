@@ -32,7 +32,6 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: var(--sc-color-rgb-light-50p);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -59,6 +58,6 @@
   }
   .sc-carousel-arrow__circle_disabled,
   .sc-carousel-arrow__circle_disabled:hover {
-    opacity: 0.5;
+    opacity: 0.3;
   }
 </style>
